@@ -50,3 +50,6 @@ export const DEFAULT_CONFIG = {
   yawThreshold: 25,
   pitchThreshold: 20,
 };
+
+// Interview Proctor - Simplified API for interview use cases
+export { InterviewProctor } from './InterviewProctor.js';
